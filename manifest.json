@@ -1,0 +1,9 @@
+{
+    "Name": "autowine",
+    "Author": "yui",
+    "Version": "1.0.0",
+    "Description": "This is a mod for test.",
+    "UniqueID": "yui.autowine",
+    "EntryDll": "autowine.dll",
+    "MinimumApiVersion": "4.0.0"
+}
